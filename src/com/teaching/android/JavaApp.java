@@ -1,17 +1,21 @@
 package com.teaching.android;
 
+import java.util.Scanner;
+
 /**
  * Empty Java App for teaching purposes.
  */
 public class JavaApp {
 
     public static void main(String[] args) {
-        System.out.println("hola ha todos"); // Display the string.
-        System.out.println(2+5-3*2);
-        System.out.println(2*4*2/2);
-        System.out.println(1/2);
-        System.out.println(5*(1/2));
-        System.out.println(5f*1/2);
-    }
+        System.out.println("Escribe un número"); // Display the string.
+     Scanner keyboard = new Scanner(System.in);
+     int valor = keyboard.nextInt();
 
+     if (valor % 2 ==0 ) {
+         System.out.println("Es par;");
+     }else {
+         System.out.println("Es impar");
+     }
+    }
 }
