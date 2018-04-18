@@ -18,15 +18,22 @@ public class JavaApp {
 
         if (random > valor) {
         System.out.println("Mayor!");
+    }else{
+            System.out.printf("El número es menor");
+
+        }
+
+    {
+
+        if ( random < valor) {
+            valor = keyboard.nextInt();
+            System.out.println("Menor!");
+        }else {
+            System.out.println("el número es mayor");
     }
     {
-            int valor1 = keyboard.nextInt();
-        if ( random < valor1){
-                System.out.println("Menor!");
-    }
-    {
-            int valor2 = keyboard.nextInt();
-        if (random==valor2){
+
+        if (random==valor){
             System.out.println("Correcto");
     }else {
             System.out.println("Has Fallado");
@@ -37,3 +44,4 @@ public class JavaApp {
     System.out.println(random);
     }
 }
+ 
