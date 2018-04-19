@@ -27,26 +27,39 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Persona.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/teaching/android/Persona.java">
+      <file leaf-file-name="Punto.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/teaching/android/Punto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="194">
+              <caret line="56" column="15" selection-start-line="56" selection-start-column="15" selection-end-line="56" selection-end-column="15" />
               <folding>
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PracticaPersona.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PruebaPunto.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/teaching/android/PruebaPunto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PracticaPersona.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/teaching/android/PracticaPersona.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="51">
+              <caret line="3" column="42" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -69,6 +82,9 @@
         <option value="$PROJECT_DIR$/src/com/teaching/android/JavaApp.java" />
         <option value="$PROJECT_DIR$/src/com/teaching/android/Persona.java" />
         <option value="$PROJECT_DIR$/src/com/teaching/android/PracticaPersona.java" />
+        <option value="$PROJECT_DIR$/src/com/teaching/android/pruebaPunto.java" />
+        <option value="$PROJECT_DIR$/src/com/teaching/android/Punto.java" />
+        <option value="$PROJECT_DIR$/src/com/teaching/android/PruebaPunto.java" />
       </list>
     </option>
   </component>
@@ -153,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PracticaPersona">
+  <component name="RunManager" selected="Application.PruebaPunto">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -170,6 +186,17 @@
     </configuration>
     <configuration name="PracticaPersona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.teaching.android.PracticaPersona" />
+      <module name="empty-java-project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.teaching.android.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PruebaPunto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.teaching.android.PruebaPunto" />
       <module name="empty-java-project" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -355,9 +382,11 @@
     <list>
       <item itemvalue="Application.JavaApp" />
       <item itemvalue="Application.PracticaPersona" />
+      <item itemvalue="Application.PruebaPunto" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PruebaPunto" />
         <item itemvalue="Application.PracticaPersona" />
         <item itemvalue="Application.JavaApp" />
       </list>
@@ -380,7 +409,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19141000" />
+    <option name="totallyTimeSpent" value="27027000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -760,11 +789,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/teaching/android/Persona.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="85">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding>
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
             <element signature="e#414#415#0" expanded="true" />
             <element signature="e#443#444#0" expanded="true" />
           </folding>
@@ -773,8 +800,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/teaching/android/PracticaPersona.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="51">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/teaching/android/Punto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="56" column="15" selection-start-line="56" selection-start-column="15" selection-end-line="56" selection-end-column="15" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/teaching/android/PruebaPunto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
         </state>
       </provider>
     </entry>

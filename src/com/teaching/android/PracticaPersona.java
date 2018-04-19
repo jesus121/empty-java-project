@@ -7,6 +7,6 @@ public class PracticaPersona {
 
         a.pagar( p,100f);
         System.out.println(p.getNombre() + " " + "tiene"+" "+p.getDinero()+"€");
-        
+
     }
 }
