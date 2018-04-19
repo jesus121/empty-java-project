@@ -5,7 +5,8 @@ public class PracticaPersona {
         Persona p = new Persona("Paco", 200f);
         Persona a = new Persona("Pepe", 0);
 
-        p.pagar( p,100f);
-        System.out.println(p);
+        a.pagar( p,100f);
+        System.out.println(p.getNombre() + " " + "tiene"+" "+p.getDinero()+"€");
+        
     }
 }

@@ -12,7 +12,9 @@ public class Persona {
         this.dinero = this.dinero + cantidad ;
         q.dinero = q.dinero - cantidad ;
     }
-
+   public String getNombre () {
+        return nombre ;
+   }
     public float getDinero (){
         return dinero;
     }
